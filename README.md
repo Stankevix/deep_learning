@@ -2,6 +2,16 @@
 
 Projetos e estudos pessoais de redes neurais
 
+
+## Projeto - NLP IMDB PT - BR
+* Analise de sentimento de criticas dos filmes (base IMDB)
+* Frameworks NLTK e Regressão Logistica
+* Analise exploratoria de dados
+* Word Cloud
+
+
+
+
 ## Projeto - Classificação de Imagem
 
 * Base composta de camisetas, shorts, tenis entre outras vestimentas
