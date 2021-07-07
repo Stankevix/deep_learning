@@ -8,6 +8,8 @@ Projetos e estudos pessoais de redes neurais
 * Frameworks NLTK e Regressão Logistica
 * Analise exploratoria de dados
 * Word Cloud
+* Remoção de espaços, pontuação, acentuação, maiusculas e sufixo 
+* TF-IDF & N-Grams
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Stankevix/deep_learning/main/Processamento%20de%20Linguagem%20Natural/word_cloud.png" alt="Sublime's custom image"/>
